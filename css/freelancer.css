@@ -192,6 +192,9 @@ section.success {
     padding-top: 75px;
   }
 }
+.portfolioHeader, .contactHeader{
+  color: #580B1C;
+}
 #portfolio .portfolio-item {
   margin: 0 0 15px;
   right: 0;
